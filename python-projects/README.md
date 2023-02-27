@@ -1,11 +1,11 @@
 # Python Projects
 
-Here are some of the work that I have worked on.
+Here are some of the work that I have done in the past. Not all work will be posted here.
 
 ***Context for each posted work are as follow:***
 
 ## Simplex & Markowitz ## 
-**Coding on optimiation algorithms**
+**Coding on optimiation algorithms.**
 
 These two coding assignments are from my academic exchange to Sweden KTH during 2019.
 

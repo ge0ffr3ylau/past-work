@@ -4,7 +4,7 @@ Hi, My name is Geoffrey and I am looking for a job in a data analytic role!
 
 This repo mainly serves as a portfolio type of hub, where I uploaded a few programming works that I worked on before.
 
-Knowing that my experience in programming is really scarce, I now notice that I need to take more initiative, and utilize the available resources on the web to prepare for any opportunities that arises for me in the future.
+Knowing that my experience in programming is really scarce, I now notice that I need to take more initiative, and utilize the available resources on the web to prepare for any opportunities that arise for me in the future.
 
 ***With that in mind, the things I am working on right now are:***
 
