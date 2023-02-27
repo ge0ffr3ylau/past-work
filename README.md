@@ -1,22 +1,24 @@
-# My-Portfolio
+# My Portfolio
 
 Hi, My name is Geoffrey and I am looking for a job in a data analytic role!
 
-This repo mainly serves as a portoflio type of hub, where I uploaded a few programming works that I worked on before.
+This repo mainly serves as a portfolio type of hub, where I uploaded a few programming works that I worked on before.
 
-Knowing that my experience in programming is really scarce, I noticed that I need to take my initiative, and utilize the available resources in the web to prepare for any opportunities that arises in the future.
+Knowing that my experience in programming is really scarce, I now notice that I need to take more initiative, and utilize the available resources on the web to prepare for any opportunities that arises for me in the future.
 
-*With that in mind, the things I am working on right now are:*
+***With that in mind, the things I am working on right now are:***
 
 ## Leetcode
 
-**Working on my SQL and Python programming skills**
+**Working on my SQL and Python programming skills.**
 
 My first tenure after my gruadation was the role of a Fintech solutions consultant. The nature of the job doesn't require me to use any programming languages such as Python and SQL, but rather Microsoft Excel or proprietary cloud platform software.
 
-Hence when I am looking for a job that utilizes more on SQL and Python, I can only rely on the programming knowledge that I've got during my Bachelors. I did not actively seek for more programming opportunities outside of my learning curriculum at that time, nor did I know where to start gaining experience.
+Hence when I am looking for a job that utilizes more on SQL and Python, I can only rely on the programming knowledge that I've got during my Bachelors. I didn't actively seek for programming opportunities beyond my learning curriculum at that time, nor did I know where to start gaining experience from.
 
-Realizing that, I decided to continue develop my programming skills using Leetcode, where I am working on 3-4 coding exercises everyday. Currently I am focusing on SQL and Python, as I start learning these two programming languages during my bachelors, and most of the jobs that I'm looking mandates these two languages as well.
+Realizing that, I decided to continue developing my programming skills using Leetcode, where I am working on 3-4 coding exercises everyday. 
+
+For now, I am focusing on SQL and Python, as I started learning them during my bachelors, and most of the jobs that I'm now looking for, mandates these two languages as well.
 
 By doing so, I hope I can slowly but surely accumulate more programming experience, and hopefully create a coding habit that I can keep for the foreseeable future.
 
@@ -25,7 +27,7 @@ For more records, you can view my [Leetcode Profile from here](https://leetcode.
 
 ## The Odin Project
 
-**To learn more about website development**
+**Learning more about website development.**
 
 I have touched upon HTML, CSS, PHP in my secondary school.
 
